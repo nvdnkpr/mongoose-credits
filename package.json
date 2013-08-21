@@ -1,0 +1,34 @@
+{
+  "name": "mongoose-credits",
+  "version": "0.0.1",
+  "description": "...",
+  "keywords": [
+    "mongoose",
+    "credits"
+  ],
+  "author": "Alex D <alex@binarypattern.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "underscore": "1.4.2",
+    "moment": "2.0.0",
+    "coveralls": "~2.1.0",
+    "mocha-lcov-reporter": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "1.7.0",
+    "should": "1.2.1",
+    "sinon": "1.5.0",
+    "database-cleaner": "~0.7.0",
+    "mongoose": "~3.6.0",
+    "Faker": "~0.5.7"
+  },
+  "scripts": {
+    "test": "mocha --recursive --reporter spec"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
