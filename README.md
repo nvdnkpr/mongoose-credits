@@ -1,7 +1,6 @@
 # Mongoose credits management plugin
 
 [![Build Status](https://travis-ci.org/AlexDisler/mongoose-credits.png)](https://travis-ci.org/AlexDisler/mongoose-credits)
-[![Coverage Status](https://coveralls.io/repos/AlexDisler/mongoose-credits/badge.png)](https://coveralls.io/r/AlexDisler/mongoose-credits)
 
 ## License 
 
