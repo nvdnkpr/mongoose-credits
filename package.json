@@ -1,7 +1,7 @@
 {
   "name": "mongoose-credits",
   "version": "0.0.1",
-  "description": "...",
+  "description": "Mongoose plugin to manage credits",
   "keywords": [
     "mongoose",
     "credits"
@@ -9,12 +9,10 @@
   "author": "Alex D <alex@binarypattern.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/AlexDisler/mongoose-credits"
   },
   "dependencies": {
-    "underscore": "1.4.2",
-    "coveralls": "~2.1.0",
-    "mocha-lcov-reporter": "0.0.1"
+    "underscore": "1.4.2"
   },
   "devDependencies": {
     "mocha": "1.7.0",
