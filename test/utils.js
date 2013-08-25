@@ -13,7 +13,6 @@ module.exports.createDummySchema = function () {
         },
         email : String,
     });
-    UserSchema.plugin(credits);
     return UserSchema;
 };
 
